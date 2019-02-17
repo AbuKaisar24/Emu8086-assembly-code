@@ -1,0 +1,11 @@
+ORG 100H
+
+MOV AX, 42
+MOV BX, 24 
+ADD CX, AX
+ADD CX, BX
+
+RET 
+END 
+
+
